@@ -1,0 +1,17 @@
+{
+    "status": [
+        "Generated",
+        "Payment Collection",
+        "Price Check",
+        "Sent to Manufacturer",
+        "Sent to Signatures",
+        "Signed",
+        "Generic Drawings",
+        "Site Specifics",
+        "New Order",
+        "Issues",
+        "Waiting Delibery",
+        "Delivery Estimated",
+        "Closed"
+    ]
+}

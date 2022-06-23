@@ -1,0 +1,10 @@
+{
+    "departments": ["Customer Service", "IT", "Sales"],
+    "positions": [
+        "Manager",
+        "Salesman",
+        "Customer Service",
+        "Developer",
+        "Assistant"
+    ]
+}

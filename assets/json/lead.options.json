@@ -1,0 +1,40 @@
+{
+    "source": [
+        "3D Estimator",
+        "Bing",
+        "Call-in",
+        "Chat",
+        "CLAD",
+        "CRM",
+        "Custom Estimator",
+        "Customer Referral",
+        "Events",
+        "Facebook",
+        "Facebook Lead Ads",
+        "Google",
+        "Manufacturer Referral",
+        "Organic",
+        "Referral",
+        "Repeat Customer",
+        "Returning Customer",
+        "Revision",
+        "Social Media - Instagram",
+        "Social Media - Snapchat",
+        "Social Media - Twitter",
+        "WebForm",
+        "WebForm - Short",
+        "Website"
+    ],
+    "status": [
+        "Dead - Not Contacted",
+        "Dead - Not Interested",
+        "Dead - Out of Area",
+        "In Progress - Not Contacted",
+        "New Lead",
+        "Quoted - Cold - Auto Follow-up",
+        "Quoted - Hot",
+        "Quoted - Warm",
+        "Quoted - Warm Need More Time",
+        "Sold"
+    ]
+}
